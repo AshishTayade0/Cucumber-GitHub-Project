@@ -65,3 +65,10 @@ src/test/resources: Holds the feature files written in Gherkin syntax.
 pom.xml: Maven configuration file that includes dependencies and plugin configurations.
 Contributing
 Feel free to contribute to this project by creating pull requests or opening issues. For any major changes, please open an issue first to discuss what you would like to change.
+![Screenshot 2024-08-17 at 11 52 24 PM](https://github.com/user-attachments/assets/72f3d14d-2c05-4ebc-a4fc-06f7375dec73)
+![Screenshot 2024-08-17 at 11 50 05 PM](https://github.com/user-attachments/assets/809c1e9f-6534-4a3e-a382-3311a3a6aa05)
+![Screenshot 2024-08-17 at 11 49 09 PM](https://github.com/user-attachments/assets/f12b677c-1caf-482e-91ae-1b041fc2218e)
+
+
+
+
