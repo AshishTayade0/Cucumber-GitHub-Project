@@ -68,7 +68,8 @@ Feel free to contribute to this project by creating pull requests or opening iss
 ![Screenshot 2024-08-17 at 11 52 24 PM](https://github.com/user-attachments/assets/72f3d14d-2c05-4ebc-a4fc-06f7375dec73)
 ![Screenshot 2024-08-17 at 11 50 05 PM](https://github.com/user-attachments/assets/809c1e9f-6534-4a3e-a382-3311a3a6aa05)
 ![Screenshot 2024-08-17 at 11 49 09 PM](https://github.com/user-attachments/assets/f12b677c-1caf-482e-91ae-1b041fc2218e)
-
-
-
+![Screenshot 2024-08-18 at 9 09 57 PM](https://github.com/user-attachments/assets/933dcc11-13dd-4a71-bce7-4cbab616d058)
+![Screenshot 2024-08-18 at 9 08 54 PM](https://github.com/user-attachments/assets/a663579b-0f7b-477f-8d64-637e737b90d5)
+![Screenshot 2024-08-18 at 9 10 16 PM](https://github.com/user-attachments/assets/b36f8fcc-e8db-4f4e-b4f5-1ad02d78251d)
+![Screenshot 2024-08-18 at 9 10 24 PM](https://github.com/user-attachments/assets/10f10e90-5fe8-472d-8afb-c7db541912cd)
 
